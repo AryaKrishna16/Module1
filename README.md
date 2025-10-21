@@ -1,5 +1,4 @@
 # Module - 1
-# Date:19/10/25
 # Conditional Statements in Python: Even or Odd Checker
 # Aim:
       
